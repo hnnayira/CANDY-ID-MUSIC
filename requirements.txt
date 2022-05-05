@@ -14,5 +14,5 @@ youtube_search
 youtube_search_python
 pytgcalls==3.0.0.dev21
 youtube-search-python
-git+https://github.com/LEGEND-OS/pyrogram
-git+https://github.com/LEGEND-OS/downloader
+git+https://github.com/princessop/pyrogram
+git+https://github.com/princessop/downloader

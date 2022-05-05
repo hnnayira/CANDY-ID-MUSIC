@@ -5,8 +5,8 @@ RUN apt install git curl python3-pip ffmpeg -y
 
 RUN cd /
 RUN git clone https://github.com/princessop/CANDY-ID-MUSIC
-RUN cd MUSIC-VC
-WORKDIR /MUSIC-VC
+RUN cd CANDY-ID-MUSIC
+WORKDIR /CANDY-ID-MUSIC
 
 RUN pip3 install --upgrade pip
 RUN pip3 install -U -r requirements.txt

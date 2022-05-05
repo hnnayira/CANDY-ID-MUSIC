@@ -1,6 +1,6 @@
 
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/princessop/CANDY-ID-MUSIC)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hnnayira/CANDY-ID-MUSIC)
 
 ## ⚒ <a name="configs"></a>Configs
 

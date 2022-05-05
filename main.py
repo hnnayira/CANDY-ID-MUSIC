@@ -1,6 +1,6 @@
 """
 Music Player, Telegram Voice Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+Copyright (c) 2021  CANDY <https://github.com/princessop>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -51,8 +51,8 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
  **Music Player**
-- Repo: [GitHub](https://github.com/LEGEND-OS/MUSIC-VC)
-- Owner: @The_LegendBoy
+- Repo: [GitHub](https://github.com/princessop/CANDY-ID-MUSIC)
+- Owner: @C_A_N_D_Y_O_P
 """
 
 
